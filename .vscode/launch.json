@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "/Users/jixua002/Library/CloudStorage/OneDrive-Osloskolen/IM1C/KP/VSC/Digital Clock/index.html"
+            "file": "/Users/jixua002/Library/CloudStorage/OneDrive-Osloskolen/IM1C/KP/VSC/Digital-Clock/index.html"
         }
     ]
 }
